@@ -4,7 +4,7 @@ import SectionTile from '../../../Component/SectionTitle/SectionTile';
 const BannerPrlx = () => {
     return (
         <div
-            className="hero mx-auto max-w-5xl"
+            className="hero mx-auto max-w-5xl bg-fixed"
             style={{
                 backgroundImage: `url(${featuredImg})`,
             }}>
